@@ -1,6 +1,6 @@
 # PongGame
 
-Classic single-player Pong played against a CPU made with C++.
+Classic single-player Pong played against a CPU, made with C++.
 
 ![image](https://github.com/connorrewa/PongGame/assets/100715231/371040c5-8bb8-4e61-9d98-2617dd2b6966)
 
