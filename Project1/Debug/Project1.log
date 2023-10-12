@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\main.cpp(4,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\main.cpp(12,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\renderer.cpp(1,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\renderer.cpp(14,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\renderer.cpp(32,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\renderer.cpp(35,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\renderer.cpp(46,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\renderer.cpp(47,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\renderer.cpp(48,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\renderer.cpp(49,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\game.cpp(10,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\game.cpp(28,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\game.cpp(37,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Project1\main.cpp(57,5): warning C4007: 'WinMain': must be '__stdcall'
+  Project1.vcxproj -> C:\Users\Conno\OneDrive\Desktop\School\Year 3.1\New folder\Project1\Debug\Project1.exe
